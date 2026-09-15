@@ -1,3 +1,7 @@
 Kaixo, nire lehen fitxategia da hau
 Beste lerro bat gehitzen dut
+<<<<<<< HEAD
 Hirugarren lerroa nire adarrean
+=======
+Hirugarren lerroa main adarrean
+>>>>>>> master
