@@ -1,1 +1,2 @@
 Adarraren testua
+Gehiago idazten adarra.txt fitxategian
